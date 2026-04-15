@@ -20,5 +20,5 @@ Cost Optimization: Implementing quantization (AWQ/GPTQ) to run LLMs efficiently 
 Let’s Build
 I partner with agencies and startups to modernize legacy systems or ship new AI products from scratch. If your website score is below 80, I have a performance guarantee that you won't find anywhere else.
 Explore my full portfolio and case studies:
-👉 [hanzala.co.in](hanzala.co.in)
+👉 [hanzala.co.in](https://hanzala.co.in/)
 Services: Software Development | AI Implementation
